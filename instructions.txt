@@ -1,0 +1,7 @@
+I have included two video files showing the program working in motion.
+
+I used React to create this program, using npm packages. To start the program please use npm start on the App.js file for the webpage
+
+For the server side please go to index.js in the server folder and do the same "npm start"
+
+If you are having any issues running it please email me at bryon.carlin@outlook.com
